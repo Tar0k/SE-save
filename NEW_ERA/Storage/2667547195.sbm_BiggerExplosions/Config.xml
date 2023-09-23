@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ExplosionSettingsConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ExplosionMaximumRadius>1500</ExplosionMaximumRadius>
+  <ExplosionVoxelMaximumRemovalRadius>300</ExplosionVoxelMaximumRemovalRadius>
+  <ExplosionSoundDelay>true</ExplosionSoundDelay>
+  <ExplosionSoundLimitedInSpace>true</ExplosionSoundLimitedInSpace>
+  <ExplosionShockDelay>true</ExplosionShockDelay>
+  <ExplosionShockLimitedInSpace>true</ExplosionShockLimitedInSpace>
+  <ExplosionShockRadiusMultiplier>1</ExplosionShockRadiusMultiplier>
+  <ExplosionShockPushMultiplier>1</ExplosionShockPushMultiplier>
+  <ExplosionShockPushLimit>100</ExplosionShockPushLimit>
+  <ExplosionShockPlayerDamage>true</ExplosionShockPlayerDamage>
+  <ExplosionBlockDestructionFidelity>4</ExplosionBlockDestructionFidelity>
+  <ExplosionSFXVolumeMultiplier>1</ExplosionSFXVolumeMultiplier>
+  <ExplosionShieldDamageMultiplier>1</ExplosionShieldDamageMultiplier>
+  <ExplosionGridDamageRadiusMultiplier>1</ExplosionGridDamageRadiusMultiplier>
+</ExplosionSettingsConfig>

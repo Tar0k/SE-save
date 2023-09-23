@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ImprovisedConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Jetpackforce>10000</Jetpackforce>
+  <ExoskeletForce>20000</ExoskeletForce>
+  <armReach>8</armReach>
+  <armThrowForce>100000</armThrowForce>
+  <maxGridsize>0</maxGridsize>
+  <lineDrawDistance>50</lineDrawDistance>
+  <playerGrabTimeoutMs>200</playerGrabTimeoutMs>
+  <gridReleaseTimeoutMs>1000</gridReleaseTimeoutMs>
+</ImprovisedConfig>

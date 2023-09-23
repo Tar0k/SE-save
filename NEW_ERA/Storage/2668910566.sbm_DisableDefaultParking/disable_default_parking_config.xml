@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Config xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <enable_wheel_parking>false</enable_wheel_parking>
+  <enable_connector_parking>false</enable_connector_parking>
+  <enable_landing_gear_parking>false</enable_landing_gear_parking>
+</Config>

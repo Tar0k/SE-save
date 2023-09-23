@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfMyTupleOfVector3DStringInt64 xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <MyTupleOfVector3DStringInt64>
+    <Item1>
+      <X>87736.299304929053</X>
+      <Y>92848.6718992721</Y>
+      <Z>5756170.561172978</Z>
+    </Item1>
+    <Item2>Freight Contract Space Station-C</Item2>
+    <Item3>107556656221017673</Item3>
+  </MyTupleOfVector3DStringInt64>
+  <MyTupleOfVector3DStringInt64>
+    <Item1>
+      <X>43919.127900428379</X>
+      <Y>-3689.5775214088994</Y>
+      <Z>-45016.579550207454</Z>
+    </Item1>
+    <Item2>Freight Contract Space Station-B</Item2>
+    <Item3>84078683445245730</Item3>
+  </MyTupleOfVector3DStringInt64>
+  <MyTupleOfVector3DStringInt64>
+    <Item1>
+      <X>86457.280478190558</X>
+      <Y>244934.11581869263</Y>
+      <Z>5829815.4498543171</Z>
+    </Item1>
+    <Item2>Freight Contract Space Station-D</Item2>
+    <Item3>83834463320963662</Item3>
+  </MyTupleOfVector3DStringInt64>
+  <MyTupleOfVector3DStringInt64>
+    <Item1>
+      <X>68640.150620065862</X>
+      <Y>135366.13842252965</Y>
+      <Z>-148790.91638660649</Z>
+    </Item1>
+    <Item2>Freight Contract Space Station-D</Item2>
+    <Item3>79077236422462199</Item3>
+  </MyTupleOfVector3DStringInt64>
+  <MyTupleOfVector3DStringInt64>
+    <Item1>
+      <X>-324058.4472831008</X>
+      <Y>-2397776.3690602966</Y>
+      <Z>398021.79779856588</Z>
+    </Item1>
+    <Item2>Freight Contract Space Station-E</Item2>
+    <Item3>108783596853401756</Item3>
+  </MyTupleOfVector3DStringInt64>
+  <MyTupleOfVector3DStringInt64>
+    <Item1>
+      <X>1033699.4302605112</X>
+      <Y>143003.71438635961</Y>
+      <Z>1569268.411456659</Z>
+    </Item1>
+    <Item2>Freight Contract Space Station-C</Item2>
+    <Item3>75428697865003739</Item3>
+  </MyTupleOfVector3DStringInt64>
+  <MyTupleOfVector3DStringInt64>
+    <Item1>
+      <X>-3988764.9909498231</X>
+      <Y>-58195.422300267528</Y>
+      <Z>-820440.366801498</Z>
+    </Item1>
+    <Item2>Freight Contract Space Station-D</Item2>
+    <Item3>81478992565130955</Item3>
+  </MyTupleOfVector3DStringInt64>
+</ArrayOfMyTupleOfVector3DStringInt64>

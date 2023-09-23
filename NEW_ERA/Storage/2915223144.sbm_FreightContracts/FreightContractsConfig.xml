@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Configuration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Version>1.1.77.285</Version>
+  <Logging>true</Logging>
+  <RewardFactor>1.2</RewardFactor>
+  <DeliveryTimeFactor>1</DeliveryTimeFactor>
+  <ReputationFactor>0.5</ReputationFactor>
+  <DeliveryDistance>60</DeliveryDistance>
+  <MaximumTripDistance xsi:nil="true" />
+  <ContractBlockRefill>3</ContractBlockRefill>
+  <ContractRefreshPeriod>60</ContractRefreshPeriod>
+  <EnableDatapad>true</EnableDatapad>
+  <EnableSpaceStations>false</EnableSpaceStations>
+  <DeepSpaceStations>2</DeepSpaceStations>
+  <ThresholdLarge>20000</ThresholdLarge>
+  <ThresholdHuge>67500</ThresholdHuge>
+  <DistanceBetweenPirateAttacks>5</DistanceBetweenPirateAttacks>
+  <TimeBetweenPirateAttacks>5</TimeBetweenPirateAttacks>
+  <BlacklistFactions>
+    <FactionTag>SPRT</FactionTag>
+    <FactionTag>SPID</FactionTag>
+    <FactionTag>IMBER</FactionTag>
+    <FactionTag>PARALLAX</FactionTag>
+    <FactionTag>ASSERT</FactionTag>
+    <FactionTag>CORRUPT</FactionTag>
+    <FactionTag>WRECKS</FactionTag>
+    <FactionTag>ORKS</FactionTag>
+    <FactionTag>REAVER</FactionTag>
+    <FactionTag>PRAVDA</FactionTag>
+    <FactionTag>INFST</FactionTag>
+  </BlacklistFactions>
+  <BlacklistPlanets>
+    <SubtypeId>Europa</SubtypeId>
+  </BlacklistPlanets>
+</Configuration>

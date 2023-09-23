@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-16"?>
+<NuclearWarheadsSettingsConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <VanillaWarheadBlockConfig>
+    <OverrideVanillaWarhead>true</OverrideVanillaWarhead>
+    <VanillaSmallWarheadExplosionRadius>5</VanillaSmallWarheadExplosionRadius>
+    <VanillaLargeWarheadExplosionRadius>25</VanillaLargeWarheadExplosionRadius>
+  </VanillaWarheadBlockConfig>
+  <MiniNukeBlockConfig>
+    <PlayerCanBuildMiniNuke>true</PlayerCanBuildMiniNuke>
+    <MiniNukeUraniumComponentRequirement>1</MiniNukeUraniumComponentRequirement>
+    <MiniNukeExplosionRadius>50</MiniNukeExplosionRadius>
+  </MiniNukeBlockConfig>
+  <NuclearWarheadBlockConfig>
+    <PlayerCanBuildNuclearWarhead>true</PlayerCanBuildNuclearWarhead>
+    <NuclearWarheadUraniumComponentRequirement>2</NuclearWarheadUraniumComponentRequirement>
+    <NuclearExplosionRadius>100</NuclearExplosionRadius>
+  </NuclearWarheadBlockConfig>
+  <ThermoNuclearWarheadBlockConfig>
+    <PlayerCanBuildThermoNuclearWarhead>true</PlayerCanBuildThermoNuclearWarhead>
+    <ThermoNuclearWarheadUraniumComponentRequirement>8</ThermoNuclearWarheadUraniumComponentRequirement>
+    <ThermoNuclearWarheadSuperconductorComponentRequirement>50</ThermoNuclearWarheadSuperconductorComponentRequirement>
+    <ThermoNuclearExplosionRadius>300</ThermoNuclearExplosionRadius>
+  </ThermoNuclearWarheadBlockConfig>
+  <NuclearMissileLauncherConfig>
+    <PlayerCanBuildNuclearMissileLauncher>true</PlayerCanBuildNuclearMissileLauncher>
+    <PlayerCanFireNuclearMissileWithHandheldLauncher>true</PlayerCanFireNuclearMissileWithHandheldLauncher>
+    <NuclearMissileExplosionRadius>100</NuclearMissileExplosionRadius>
+    <NuclearMissileLaunchSpeed>150</NuclearMissileLaunchSpeed>
+    <NuclearMissileGravityMultiplier>2</NuclearMissileGravityMultiplier>
+    <NuclearMissileMaxDistance>15000</NuclearMissileMaxDistance>
+  </NuclearMissileLauncherConfig>
+  <ComponentsConfig>
+    <PlayerCanMakeEnrichedUraniumCore>true</PlayerCanMakeEnrichedUraniumCore>
+    <EnrichedUraniumCoreIngotRequirementMultiplier>1</EnrichedUraniumCoreIngotRequirementMultiplier>
+    <EnrichedUraniumCoreProductionTimeMultiplier>1</EnrichedUraniumCoreProductionTimeMultiplier>
+    <PlayerCanMakeNuclearMissileAmmo>true</PlayerCanMakeNuclearMissileAmmo>
+    <NuclearMissileAmmoUraniumRequirementMultiplier>1</NuclearMissileAmmoUraniumRequirementMultiplier>
+    <NuclearMissileAmmoPlatinumRequirementMultiplier>1</NuclearMissileAmmoPlatinumRequirementMultiplier>
+    <NuclearMissileAmmoMagnesiumRequirementMultiplier>1</NuclearMissileAmmoMagnesiumRequirementMultiplier>
+    <NuclearMissileProductionTimeMultiplier>1</NuclearMissileProductionTimeMultiplier>
+  </ComponentsConfig>
+</NuclearWarheadsSettingsConfig>

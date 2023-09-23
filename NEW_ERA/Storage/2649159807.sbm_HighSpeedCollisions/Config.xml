@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<HSCSettingsConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <KineticTrackingGridRefreshPeriod>120</KineticTrackingGridRefreshPeriod>
+  <LargeGridMaxSpeedMultiplier>-1</LargeGridMaxSpeedMultiplier>
+  <SmallGridMaxSpeedMultiplier>-1</SmallGridMaxSpeedMultiplier>
+  <ExplosionSpeedMinimum>150</ExplosionSpeedMinimum>
+  <ExplosionEnergyMultiplier>1</ExplosionEnergyMultiplier>
+  <ExplosionMaximumRadius>500</ExplosionMaximumRadius>
+</HSCSettingsConfig>

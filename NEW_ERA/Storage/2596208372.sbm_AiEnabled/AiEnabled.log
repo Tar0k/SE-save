@@ -1,0 +1,8 @@
+[17:40:21.365] [T1] [DS=False] DEBUG | Log Started (v1.7)
+[17:40:21.367] [T1] [DS=False] DEBUG | Water Mod v19 found
+[17:40:21.381] [T1] [DS=False] DEBUG | WeaponCore Mod found. API loaded successfully = True
+[17:40:21.385] [T1] [DS=False] DEBUG |  -> No NPC-Safe WeaponCore Weapon Magazines found.
+[17:40:21.480] [T1] [DS=False] DEBUG | Faction cleanup: Removing 20/22 members from Space Pirates
+[17:40:25.031] [T1] [DS=False] DEBUG | CommandMenu Registered Successfully = True
+[19:31:27.794] [T1] [DS=False] DEBUG | Unloading mod data. Registered = True
+[19:31:27.855] [T1] [DS=False] DEBUG | Mod unloaded successfully
