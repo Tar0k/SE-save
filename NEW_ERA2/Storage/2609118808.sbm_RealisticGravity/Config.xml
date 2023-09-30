@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-16"?>
+<OrbitSettingsConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <GlobalMaxSpeedMultiplier_LargeGrid>-1</GlobalMaxSpeedMultiplier_LargeGrid>
+  <GlobalMaxSpeedMultiplier_SmallGrid>-1</GlobalMaxSpeedMultiplier_SmallGrid>
+  <CharacterGravityMultiplier>2</CharacterGravityMultiplier>
+  <PreventGridStopping>true</PreventGridStopping>
+  <OverrideCreatedPlanetGravityFalloff>true</OverrideCreatedPlanetGravityFalloff>
+  <ShowCharacterOrbitInfo>false</ShowCharacterOrbitInfo>
+  <ShowCharacterOrbitPath>false</ShowCharacterOrbitPath>
+  <ShowGridOrbitInfo>true</ShowGridOrbitInfo>
+  <ShowGridOrbitPath>true</ShowGridOrbitPath>
+  <ShowGridOrbitPathEnemy>false</ShowGridOrbitPathEnemy>
+  <GridOrbitPathMaxDrawDistance>500000</GridOrbitPathMaxDrawDistance>
+  <ShowGridOrbitGps>true</ShowGridOrbitGps>
+  <ShowPeriApoGps>true</ShowPeriApoGps>
+  <OrbitPathLineThickness>1</OrbitPathLineThickness>
+  <OrbitRenderDivisions>60</OrbitRenderDivisions>
+  <OrbitInfoScreenOffset>
+    <X>-0.7</X>
+    <Y>-0.55</Y>
+  </OrbitInfoScreenOffset>
+  <ColorMyOrbitPath>
+    <X>1</X>
+    <Y>1</Y>
+    <Z>0</Z>
+  </ColorMyOrbitPath>
+  <ColorGridOrbitPathFriendly>
+    <X>0.8</X>
+    <Y>1</Y>
+    <Z>0.8</Z>
+  </ColorGridOrbitPathFriendly>
+  <ColorGridOrbitPathNeutral>
+    <X>1</X>
+    <Y>1</Y>
+    <Z>1</Z>
+  </ColorGridOrbitPathNeutral>
+  <ColorGridOrbitPathEnemy>
+    <X>1</X>
+    <Y>0.7</Y>
+    <Z>0.7</Z>
+  </ColorGridOrbitPathEnemy>
+  <ColorPeriApoGps>
+    <X>0.8</X>
+    <Y>0.8</Y>
+    <Z>1</Z>
+  </ColorPeriApoGps>
+</OrbitSettingsConfig>
