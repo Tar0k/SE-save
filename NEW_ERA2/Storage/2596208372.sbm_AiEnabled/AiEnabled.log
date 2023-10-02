@@ -1,7 +1,8 @@
-[21:03:57.045] [T1] [DS=False] DEBUG | Log Started (v1.7)
-[21:03:57.052] [T1] [DS=False] DEBUG | Defense Shields Mod found. API loaded successfully = True
-[21:03:57.176] [T1] [DS=False] DEBUG | Faction cleanup: Removing 20/22 members from Space Pirates
-[21:03:57.197] [T1] [DS=False] DEBUG | Faction cleanup: Removing 3/5 members from Сабироиды
-[21:04:00.790] [T1] [DS=False] DEBUG | CommandMenu Registered Successfully = True
-[23:17:51.519] [T1] [DS=False] DEBUG | Unloading mod data. Registered = True
-[23:17:51.571] [T1] [DS=False] DEBUG | Mod unloaded successfully
+[16:55:03.395] [T1] [DS=False] DEBUG | Log Started (v1.7)
+[16:55:03.398] [T1] [DS=False] DEBUG | Defense Shields Mod found. API loaded successfully = True
+[16:55:03.542] [T1] [DS=False] DEBUG | Faction cleanup: Removing 20/22 members from Space Pirates
+[16:55:03.574] [T1] [DS=False] DEBUG | Faction cleanup: Removing 1/3 members from Сабироиды
+[16:55:07.949] [T1] [DS=False] DEBUG | CommandMenu Registered Successfully = True
+[17:30:58.207] [T1] [DS=False] DEBUG | Mod setup completed in 0H 34M 16.32S
+[19:17:38.479] [T1] [DS=False] DEBUG | Unloading mod data. Registered = True
+[19:17:38.575] [T1] [DS=False] DEBUG | Mod unloaded successfully
