@@ -152,11 +152,6 @@
       <PublishedFileId>1773965697</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Victims of Clang">
-      <Name>2598692154.sbm</Name>
-      <PublishedFileId>2598692154</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Vanilla Clear Glass Reflections Fixed (dev + stable)">
       <Name>789329593.sbm</Name>
       <PublishedFileId>789329593</PublishedFileId>
@@ -446,5 +441,5 @@
     </ModItem>
   </Mods>
   <SessionName>NEW_ERA2</SessionName>
-  <LastSaveTime>2023-10-03T17:37:57.5971651+04:00</LastSaveTime>
+  <LastSaveTime>2023-10-22T20:19:55.4778256+04:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
