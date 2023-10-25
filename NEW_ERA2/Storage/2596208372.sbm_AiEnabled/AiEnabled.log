@@ -1,22 +1,9 @@
-[19:12:24.212] [T1] [DS=False] DEBUG | Log Started (v1.7)
-[19:12:24.215] [T1] [DS=False] DEBUG | Defense Shields Mod found. API loaded successfully = True
-[19:12:24.332] [T1] [DS=False] DEBUG | Faction cleanup: Removing 60/62 members from Space Pirates
-[19:12:24.353] [T1] [DS=False] DEBUG | Faction cleanup: Removing 10/12 members from Сабироиды
-[19:12:28.503] [T1] [DS=False] DEBUG | CommandMenu Registered Successfully = True
-[20:17:17.070] [T1] [DS=False] DEBUG | Mod setup completed in 1H -58M 7166.4S
-[20:19:26.160] [T1] [DS=False] WARNING | Something attempted to spawn 'Female Astronaut 6' which is not included in the AllowedBotSubtypes. Spawn aborted.
-[20:19:27.822] [T1] [DS=False] WARNING | Something attempted to spawn 'Male Astronaut 5' which is not included in the AllowedBotSubtypes. Spawn aborted.
-[20:19:29.486] [T1] [DS=False] WARNING | Something attempted to spawn 'SE_astronautNoSuit' which is not included in the AllowedBotSubtypes. Spawn aborted.
-[20:19:34.507] [T1] [DS=False] WARNING | Something attempted to spawn 'Female Astronaut 2' which is not included in the AllowedBotSubtypes. Spawn aborted.
-[20:20:10.860] [T1] [DS=False] WARNING | Something attempted to spawn 'SE_astronautNoSuitFemale' which is not included in the AllowedBotSubtypes. Spawn aborted.
-[20:21:03.420] [T1] [DS=False] WARNING | Something attempted to spawn 'Male Astronaut 6' which is not included in the AllowedBotSubtypes. Spawn aborted.
-[20:21:40.267] [T1] [DS=False] WARNING | Something attempted to spawn 'Female Astronaut 4' which is not included in the AllowedBotSubtypes. Spawn aborted.
-[20:30:49.426] [T1] [DS=False] WARNING | Something attempted to spawn 'Male Astronaut 2' which is not included in the AllowedBotSubtypes. Spawn aborted.
-[20:30:56.088] [T1] [DS=False] WARNING | Something attempted to spawn 'SE_astronautNoSuit' which is not included in the AllowedBotSubtypes. Spawn aborted.
-[20:31:43.339] [T1] [DS=False] WARNING | Something attempted to spawn 'Male Astronaut 2' which is not included in the AllowedBotSubtypes. Spawn aborted.
-[20:31:45.006] [T1] [DS=False] WARNING | Something attempted to spawn 'SE_astronautNoSuitFemale' which is not included in the AllowedBotSubtypes. Spawn aborted.
-[20:31:46.671] [T1] [DS=False] WARNING | Something attempted to spawn 'Male Astronaut 3' which is not included in the AllowedBotSubtypes. Spawn aborted.
-[20:32:30.305] [T1] [DS=False] WARNING | Something attempted to spawn 'Male Astronaut 2' which is not included in the AllowedBotSubtypes. Spawn aborted.
-[21:57:30.431] [T1] [DS=False] DEBUG | Closing 5 bots before unload
-[21:57:33.375] [T1] [DS=False] DEBUG | Unloading mod data. Registered = True
-[21:57:33.608] [T1] [DS=False] DEBUG | Mod unloaded successfully
+[20:40:11.634] [T1] [DS=False] DEBUG | Log Started (v1.7)
+[20:40:11.637] [T1] [DS=False] DEBUG | Defense Shields Mod found. API loaded successfully = True
+[20:40:11.776] [T1] [DS=False] DEBUG | Faction cleanup: Removing 60/62 members from Space Pirates
+[20:40:11.807] [T1] [DS=False] DEBUG | Faction cleanup: Removing 15/17 members from Сабироиды
+[20:40:11.825] [T1] [DS=False] DEBUG | Faction cleanup: Removing 16/17 members from Raiders
+[20:40:11.825] [T1] [DS=False] DEBUG | Faction cleanup: Removing 2/3 members from Imber Corporation
+[20:40:16.817] [T1] [DS=False] DEBUG | CommandMenu Registered Successfully = True
+[21:06:12.590] [T1] [DS=False] DEBUG | Unloading mod data. Registered = True
+[21:06:12.697] [T1] [DS=False] DEBUG | Mod unloaded successfully

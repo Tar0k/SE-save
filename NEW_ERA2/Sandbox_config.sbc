@@ -177,11 +177,6 @@
       <PublishedFileId>888457124</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Space Just Got Real (1.188 Update 4)">
-      <Name>1136188499.sbm</Name>
-      <PublishedFileId>1136188499</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Sneaky Sounds - Quieter Tools">
       <Name>1662953858.sbm</Name>
       <PublishedFileId>1662953858</PublishedFileId>
@@ -441,5 +436,5 @@
     </ModItem>
   </Mods>
   <SessionName>NEW_ERA2</SessionName>
-  <LastSaveTime>2023-10-24T21:57:17.7683948+04:00</LastSaveTime>
+  <LastSaveTime>2023-10-25T21:06:03.561532+04:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
