@@ -145,6 +145,7 @@
     <MaxProductionQueueLength>50</MaxProductionQueueLength>
     <PrefetchShapeRayLengthLimit>15000</PrefetchShapeRayLengthLimit>
     <EnemyTargetIndicatorDistance>20</EnemyTargetIndicatorDistance>
+    <EnableTrashSettingsPlatformOverride>true</EnableTrashSettingsPlatformOverride>
   </Settings>
   <Mods>
     <ModItem FriendlyName="Wave Spawner (Space)">
@@ -436,5 +437,5 @@
     </ModItem>
   </Mods>
   <SessionName>NEW_ERA2</SessionName>
-  <LastSaveTime>2023-10-26T22:06:11.2223405+04:00</LastSaveTime>
+  <LastSaveTime>2023-11-12T22:15:21.2376617+04:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>

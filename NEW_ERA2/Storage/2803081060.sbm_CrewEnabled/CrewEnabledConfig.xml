@@ -29,6 +29,7 @@
     <SubtypeId>SemiAutoPistolItem</SubtypeId>
     <SubtypeId>FullAutoPistolItem</SubtypeId>
     <SubtypeId>ElitePistolItem</SubtypeId>
+    <SubtypeId>FlareGunItem</SubtypeId>
     <SubtypeId>AutomaticRifleItem</SubtypeId>
     <SubtypeId>PreciseAutomaticRifleItem</SubtypeId>
     <SubtypeId>RapidFireAutomaticRifleItem</SubtypeId>
