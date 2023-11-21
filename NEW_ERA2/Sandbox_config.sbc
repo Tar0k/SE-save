@@ -213,11 +213,6 @@
       <PublishedFileId>2598691307</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Real Orbits">
-      <Name>2609118808.sbm</Name>
-      <PublishedFileId>2609118808</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Projections To Assembler">
       <Name>1289485324.sbm</Name>
       <PublishedFileId>1289485324</PublishedFileId>
@@ -437,5 +432,5 @@
     </ModItem>
   </Mods>
   <SessionName>NEW_ERA2</SessionName>
-  <LastSaveTime>2023-11-20T22:35:55.7968787+04:00</LastSaveTime>
+  <LastSaveTime>2023-11-21T16:37:53.4244504+04:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
