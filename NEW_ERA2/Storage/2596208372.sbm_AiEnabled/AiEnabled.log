@@ -1,11 +1,8 @@
-[13:25:22.857] [T1] [DS=False] DEBUG | Log Started (v1.7)
-[13:25:22.863] [T1] [DS=False] DEBUG | Defense Shields Mod found. API loaded successfully = True
-[13:25:23.006] [T1] [DS=False] DEBUG | Faction cleanup: Removing 40/42 members from Space Pirates
-[13:25:23.021] [T1] [DS=False] DEBUG | Faction cleanup: Removing 25/27 members from Сабироиды
-[13:25:23.026] [T1] [DS=False] DEBUG | Faction cleanup: Removing 8/9 members from Raiders
-[13:25:23.026] [T1] [DS=False] DEBUG | Faction cleanup: Removing 6/7 members from Imber Corporation
-[13:25:23.026] [T1] [DS=False] DEBUG | Faction cleanup: Removing 2/3 members from Assert Inc
-[13:25:27.730] [T1] [DS=False] DEBUG | CommandMenu Registered Successfully = True
-[13:25:39.928] [T1] [DS=False] DEBUG | Mod setup completed in 0H 0M 6.944S
-[16:38:02.443] [T1] [DS=False] DEBUG | Unloading mod data. Registered = True
-[16:38:02.656] [T1] [DS=False] DEBUG | Mod unloaded successfully
+[16:35:56.284] [T1] [DS=False] DEBUG | Log Started (v1.7)
+[16:35:56.287] [T1] [DS=False] DEBUG | Defense Shields Mod found. API loaded successfully = True
+[16:35:56.396] [T1] [DS=False] DEBUG | Faction cleanup: Removing 40/42 members from Space Pirates
+[16:35:56.406] [T1] [DS=False] DEBUG | Faction cleanup: Removing 6/8 members from Сабироиды
+[16:35:56.411] [T1] [DS=False] DEBUG | Faction cleanup: Removing 3/4 members from Raiders
+[16:36:00.797] [T1] [DS=False] DEBUG | CommandMenu Registered Successfully = True
+[17:49:24.344] [T1] [DS=False] WARNING | Something attempted to spawn 'Female Astronaut 6' which is not included in the AllowedBotSubtypes. Spawn aborted.
+[17:49:25.988] [T1] [DS=False] WARNING | Something attempted to spawn 'Male Astronaut 5' which is not included in the AllowedBotSubtypes. Spawn aborted.
