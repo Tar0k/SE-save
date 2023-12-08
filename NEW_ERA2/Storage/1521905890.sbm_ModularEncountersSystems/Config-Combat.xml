@@ -2,7 +2,7 @@
 <ConfigCombat xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <EnableCombatPhaseSystem>true</EnableCombatPhaseSystem>
   <MinCombatPhaseSeconds>900</MinCombatPhaseSeconds>
-  <MaxCombatPhaseSeconds>1800</MaxCombatPhaseSeconds>
+  <MaxCombatPhaseSeconds>1200</MaxCombatPhaseSeconds>
   <MinPeacePhaseSeconds>1800</MinPeacePhaseSeconds>
   <MaxPeacePhaseSeconds>3600</MaxPeacePhaseSeconds>
   <CombatPhaseModIdOverride />

@@ -40,5 +40,5 @@
   </NpcSpawnGroupBlacklist>
   <UseEconomyBuyingReputationIncrease>true</UseEconomyBuyingReputationIncrease>
   <EconomyBuyingReputationCostAmount>500000</EconomyBuyingReputationCostAmount>
-  <Difficulty>1</Difficulty>
+  <Difficulty>5</Difficulty>
 </ConfigGeneral>

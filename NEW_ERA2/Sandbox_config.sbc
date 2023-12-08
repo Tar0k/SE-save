@@ -148,6 +148,11 @@
     <EnableTrashSettingsPlatformOverride>true</EnableTrashSettingsPlatformOverride>
   </Settings>
   <Mods>
+    <ModItem FriendlyName="Orks: The Great WAAAGH!">
+      <Name>1793333265.sbm</Name>
+      <PublishedFileId>1793333265</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="Wave Spawner (Space)">
       <Name>1773965697.sbm</Name>
       <PublishedFileId>1773965697</PublishedFileId>
@@ -208,11 +213,6 @@
       <PublishedFileId>1965654081</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Robot Raider Pods">
-      <Name>2598691307.sbm</Name>
-      <PublishedFileId>2598691307</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Projections To Assembler">
       <Name>1289485324.sbm</Name>
       <PublishedFileId>1289485324</PublishedFileId>
@@ -253,11 +253,6 @@
       <PublishedFileId>1400364273</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="NPC Defense Shields Provider">
-      <Name>2043339470.sbm</Name>
-      <PublishedFileId>2043339470</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Modular Encounters Systems">
       <Name>1521905890.sbm</Name>
       <PublishedFileId>1521905890</PublishedFileId>
@@ -291,11 +286,6 @@
     <ModItem FriendlyName="Eyes Just Got Clear (1.186 Drugs Are Bad Mkay Update)">
       <Name>1157796670.sbm</Name>
       <PublishedFileId>1157796670</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Energy Shields">
-      <Name>484504816.sbm</Name>
-      <PublishedFileId>484504816</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Electric Network Info - Touch App">
@@ -424,13 +414,7 @@
       <PublishedServiceName>Steam</PublishedServiceName>
       <IsDependency>true</IsDependency>
     </ModItem>
-    <ModItem FriendlyName="Defense Shields - v2.2(8)">
-      <Name>1365616918.sbm</Name>
-      <PublishedFileId>1365616918</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
-    </ModItem>
   </Mods>
   <SessionName>NEW_ERA2</SessionName>
-  <LastSaveTime>2023-12-05T22:45:57.4130966+04:00</LastSaveTime>
+  <LastSaveTime>2023-12-07T22:38:36.4093773+04:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
