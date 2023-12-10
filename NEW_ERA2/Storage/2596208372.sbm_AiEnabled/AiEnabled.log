@@ -1,6 +1,9 @@
-[19:55:01.129] [T1] [DS=False] DEBUG | Log Started (v1.7.1)
-[19:55:01.188] [T1] [DS=False] DEBUG | Faction cleanup: Removing 60/62 members from Space Pirates
-[19:55:01.189] [T1] [DS=False] DEBUG | Faction cleanup: Removing 1/3 members from Сабироиды
-[19:55:03.099] [T1] [DS=False] DEBUG | CommandMenu Registered Successfully = True
-[23:40:15.719] [T1] [DS=False] DEBUG | Unloading mod data. Registered = True
-[23:40:15.828] [T1] [DS=False] DEBUG | Mod unloaded successfully
+[14:54:28.559] [T1] [DS=False] DEBUG | Log Started (v1.7.1)
+[14:54:28.718] [T1] [DS=False] DEBUG | Faction cleanup: Removing 60/62 members from Space Pirates
+[14:54:28.735] [T1] [DS=False] DEBUG | Faction cleanup: Removing 12/14 members from Сабироиды
+[14:54:32.594] [T1] [DS=False] DEBUG | CommandMenu Registered Successfully = True
+[15:00:03.864] [T1] [DS=False] DEBUG | Mod setup completed in 0H 5M 7.2S
+[16:05:21.867] [T1] [DS=False] WARNING | Something attempted to spawn 'Male Astronaut 1' which is not included in the AllowedBotSubtypes. Spawn aborted.
+[16:07:20.201] [T1] [DS=False] WARNING | Something attempted to spawn 'Male Astronaut 1' which is not included in the AllowedBotSubtypes. Spawn aborted.
+[17:36:53.576] [T1] [DS=False] DEBUG | Unloading mod data. Registered = True
+[17:36:53.617] [T1] [DS=False] DEBUG | Mod unloaded successfully
