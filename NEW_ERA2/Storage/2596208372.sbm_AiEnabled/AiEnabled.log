@@ -1,5 +1,5 @@
-[18:57:42.712] [T1] [DS=False] DEBUG | Log Started (v1.7.2)
-[18:57:42.812] [T1] [DS=False] DEBUG | Faction cleanup: Removing 20/22 members from Space Pirates
-[18:57:48.755] [T1] [DS=False] DEBUG | CommandMenu Registered Successfully = True
-[23:57:15.487] [T1] [DS=False] DEBUG | Unloading mod data. Registered = True
-[23:57:15.575] [T1] [DS=False] DEBUG | Mod unloaded successfully
+[12:10:46.870] [T1] [DS=False] DEBUG | Log Started (v1.7.2)
+[12:10:46.976] [T1] [DS=False] DEBUG | Faction cleanup: Removing 20/22 members from Space Pirates
+[12:10:51.283] [T1] [DS=False] DEBUG | CommandMenu Registered Successfully = True
+[14:53:19.520] [T1] [DS=False] DEBUG | Unloading mod data. Registered = True
+[14:53:19.595] [T1] [DS=False] DEBUG | Mod unloaded successfully
