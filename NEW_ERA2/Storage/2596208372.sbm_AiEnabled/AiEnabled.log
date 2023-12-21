@@ -1,19 +1,6 @@
-[17:20:51.061] [T1] [DS=False] DEBUG | Log Started (v1.7.2)
-[17:20:51.167] [T1] [DS=False] DEBUG | Faction cleanup: Removing 40/42 members from Space Pirates
-[17:20:57.303] [T1] [DS=False] DEBUG | CommandMenu Registered Successfully = True
-[17:21:15.330] [T1] [DS=False] DEBUG | Mod setup completed in 0H 0M 5.744S
-[23:32:37.216] [T1] [DS=False] WARNING | Something attempted to spawn 'Male Astronaut 4' which is not included in the AllowedBotSubtypes. Spawn aborted.
-[23:35:31.464] [T1] [DS=False] WARNING | Something attempted to spawn 'Female Astronaut 4' which is not included in the AllowedBotSubtypes. Spawn aborted.
-[23:35:33.130] [T1] [DS=False] WARNING | Something attempted to spawn 'Female Astronaut 3' which is not included in the AllowedBotSubtypes. Spawn aborted.
-[23:35:34.794] [T1] [DS=False] WARNING | Something attempted to spawn 'Male Astronaut 1' which is not included in the AllowedBotSubtypes. Spawn aborted.
-[23:35:36.460] [T1] [DS=False] WARNING | Something attempted to spawn 'Male Astronaut 6' which is not included in the AllowedBotSubtypes. Spawn aborted.
-[23:36:50.075] [T1] [DS=False] WARNING | Something attempted to spawn 'Male Astronaut 4' which is not included in the AllowedBotSubtypes. Spawn aborted.
-[23:36:51.741] [T1] [DS=False] WARNING | Something attempted to spawn 'Astronaut_Nosuit' which is not included in the AllowedBotSubtypes. Spawn aborted.
-[23:36:53.410] [T1] [DS=False] WARNING | Something attempted to spawn 'SE_astronautNoSuit' which is not included in the AllowedBotSubtypes. Spawn aborted.
-[23:36:55.076] [T1] [DS=False] WARNING | Something attempted to spawn 'SE_astronautNoSuitFemale' which is not included in the AllowedBotSubtypes. Spawn aborted.
-[23:36:56.744] [T1] [DS=False] WARNING | Something attempted to spawn 'SE_astronautNoSuit' which is not included in the AllowedBotSubtypes. Spawn aborted.
-[23:37:36.636] [T1] [DS=False] WARNING | Something attempted to spawn 'Male Astronaut 1' which is not included in the AllowedBotSubtypes. Spawn aborted.
-[23:37:38.304] [T1] [DS=False] WARNING | Something attempted to spawn 'SE_astronautNoSuitFemale' which is not included in the AllowedBotSubtypes. Spawn aborted.
-[23:37:39.968] [T1] [DS=False] WARNING | Something attempted to spawn 'SE_astronautNoSuit' which is not included in the AllowedBotSubtypes. Spawn aborted.
-[00:30:19.655] [T1] [DS=False] DEBUG | Unloading mod data. Registered = True
-[00:30:19.737] [T1] [DS=False] DEBUG | Mod unloaded successfully
+[20:48:36.484] [T1] [DS=False] DEBUG | Log Started (v1.7.5)
+[20:48:36.607] [T1] [DS=False] DEBUG | Faction cleanup: Removing 60/62 members from Space Pirates
+[20:48:36.627] [T1] [DS=False] DEBUG | Faction cleanup: Removing 2/3 members from Pravda Heavy Industries
+[20:48:43.416] [T1] [DS=False] DEBUG | CommandMenu Registered Successfully = True
+[22:38:38.181] [T1] [DS=False] DEBUG | Unloading mod data. Registered = True
+[22:38:38.261] [T1] [DS=False] DEBUG | Mod unloaded successfully
