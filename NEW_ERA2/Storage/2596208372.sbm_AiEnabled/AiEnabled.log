@@ -1,9 +1,7 @@
-[21:19:48.309] [T1] [DS=False] DEBUG | Log Started (v1.7.5)
-[21:19:48.378] [T1] [DS=False] DEBUG | Faction cleanup: Removing 60/62 members from Space Pirates
-[21:19:48.378] [T1] [DS=False] DEBUG | Faction cleanup: Removing 5/7 members from Сабироиды
-[21:19:50.947] [T1] [DS=False] DEBUG | CommandMenu Registered Successfully = True
-[21:24:38.821] [T1] [DS=False] WARNING | Found duplicate identity in faction Orks (discarding identity)
-[21:34:35.955] [T1] [DS=False] DEBUG | Mod setup completed in 0H 13M 47.52S
-[21:51:58.448] [T1] [DS=False] DEBUG | Closing 3 bot(s) before unload
-[21:52:01.641] [T1] [DS=False] DEBUG | Unloading mod data. Registered = True
-[21:52:01.676] [T1] [DS=False] DEBUG | Mod unloaded successfully
+[16:49:25.334] [T1] [DS=False] DEBUG | Log Started (v1.7.5)
+[16:49:25.407] [T1] [DS=False] DEBUG | Faction cleanup: Removing 19/21 members from Space Pirates
+[16:49:25.408] [T1] [DS=False] DEBUG | Faction cleanup: Removing 2/4 members from Сабироиды
+[16:49:28.570] [T1] [DS=False] DEBUG | CommandMenu Registered Successfully = True
+[16:49:39.617] [T1] [DS=False] DEBUG | Mod setup completed in 0H 0M 8.352S
+[17:16:28.216] [T1] [DS=False] DEBUG | Unloading mod data. Registered = True
+[17:16:28.293] [T1] [DS=False] DEBUG | Mod unloaded successfully

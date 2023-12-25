@@ -47,10 +47,10 @@
   <AreaSize>15000</AreaSize>
   <PlayerMaximumDistanceFromSurface>6000</PlayerMaximumDistanceFromSurface>
   <MinimumSpawnDistanceFromPlayers>1500</MinimumSpawnDistanceFromPlayers>
-  <MaximumSpawnDistanceFromPlayers>4000</MaximumSpawnDistanceFromPlayers>
+  <MaximumSpawnDistanceFromPlayers>6000</MaximumSpawnDistanceFromPlayers>
   <AggressivePathCheck>true</AggressivePathCheck>
   <SearchPathIncrement>150</SearchPathIncrement>
-  <MinimumSpawnDistanceFromOtherGrids>2500</MinimumSpawnDistanceFromOtherGrids>
+  <MinimumSpawnDistanceFromOtherGrids>1500</MinimumSpawnDistanceFromOtherGrids>
   <MinimumTerrainVariance>-2.5</MinimumTerrainVariance>
   <MaximumTerrainVariance>2.5</MaximumTerrainVariance>
   <AggressiveTerrainCheck>true</AggressiveTerrainCheck>

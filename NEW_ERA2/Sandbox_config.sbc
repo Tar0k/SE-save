@@ -96,9 +96,9 @@
     <OptimalGridCount>0</OptimalGridCount>
     <PlayerInactivityThreshold>0</PlayerInactivityThreshold>
     <PlayerCharacterRemovalThreshold>15</PlayerCharacterRemovalThreshold>
-    <VoxelTrashRemovalEnabled>false</VoxelTrashRemovalEnabled>
-    <VoxelPlayerDistanceThreshold>5000</VoxelPlayerDistanceThreshold>
-    <VoxelGridDistanceThreshold>5000</VoxelGridDistanceThreshold>
+    <VoxelTrashRemovalEnabled>true</VoxelTrashRemovalEnabled>
+    <VoxelPlayerDistanceThreshold>3000</VoxelPlayerDistanceThreshold>
+    <VoxelGridDistanceThreshold>3000</VoxelGridDistanceThreshold>
     <VoxelAgeThreshold>24</VoxelAgeThreshold>
     <EnableResearch>true</EnableResearch>
     <EnableGoodBotHints>true</EnableGoodBotHints>
@@ -148,6 +148,11 @@
     <EnableTrashSettingsPlatformOverride>true</EnableTrashSettingsPlatformOverride>
   </Settings>
   <Mods>
+    <ModItem FriendlyName="Corruption PvE Combat">
+      <Name>914369510.sbm</Name>
+      <PublishedFileId>914369510</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="Orks: The Great WAAAGH!">
       <Name>1793333265.sbm</Name>
       <PublishedFileId>1793333265</PublishedFileId>
@@ -233,11 +238,6 @@
       <PublishedFileId>946724937</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Parallax Concepts (Formerly Surface Occupation)">
-      <Name>1135484957.sbm</Name>
-      <PublishedFileId>1135484957</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="NPC Weapon Upgrades">
       <Name>1555044803.sbm</Name>
       <PublishedFileId>1555044803</PublishedFileId>
@@ -258,19 +258,9 @@
       <PublishedFileId>2620846452</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Independent Contractors (Formerly Reddit Custom Encounters)">
-      <Name>445996030.sbm</Name>
-      <PublishedFileId>445996030</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="In Depth LCDs">
       <Name>2839553181.sbm</Name>
       <PublishedFileId>2839553181</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Imber Corporation (Formerly Air Traffic)">
-      <Name>973526550.sbm</Name>
-      <PublishedFileId>973526550</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="HUD Colors">
@@ -403,13 +393,7 @@
       <PublishedFileId>295393216</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Animation Engine">
-      <Name>2880317963.sbm</Name>
-      <PublishedFileId>2880317963</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
-    </ModItem>
   </Mods>
   <SessionName>NEW_ERA2</SessionName>
-  <LastSaveTime>2023-12-24T21:51:49.6918326+03:00</LastSaveTime>
+  <LastSaveTime>2023-12-25T17:16:18.8179009+04:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
