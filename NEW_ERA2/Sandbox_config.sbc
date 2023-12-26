@@ -44,7 +44,7 @@
     <ProceduralSeed>0</ProceduralSeed>
     <DestructibleBlocks>true</DestructibleBlocks>
     <EnableIngameScripts>true</EnableIngameScripts>
-    <ViewDistance>15000</ViewDistance>
+    <ViewDistance>5000</ViewDistance>
     <EnableToolShake>true</EnableToolShake>
     <VoxelGeneratorVersion>4</VoxelGeneratorVersion>
     <EnableOxygen>true</EnableOxygen>
@@ -80,7 +80,7 @@
     <EnableScripterRole>false</EnableScripterRole>
     <MinDropContainerRespawnTime>5</MinDropContainerRespawnTime>
     <MaxDropContainerRespawnTime>20</MaxDropContainerRespawnTime>
-    <EnableTurretsFriendlyFire>false</EnableTurretsFriendlyFire>
+    <EnableTurretsFriendlyFire>true</EnableTurretsFriendlyFire>
     <EnableSubgridDamage>false</EnableSubgridDamage>
     <SyncDistance>3000</SyncDistance>
     <ExperimentalMode>true</ExperimentalMode>
@@ -134,7 +134,7 @@
     <CharacterSpeedMultiplier>1</CharacterSpeedMultiplier>
     <EnableRecoil>true</EnableRecoil>
     <EnvironmentDamageMultiplier>1</EnvironmentDamageMultiplier>
-    <EnableGamepadAimAssist>false</EnableGamepadAimAssist>
+    <EnableGamepadAimAssist>true</EnableGamepadAimAssist>
     <BackpackDespawnTimer>5</BackpackDespawnTimer>
     <EnableFactionPlayerNames>false</EnableFactionPlayerNames>
     <EnableTeamScoreCounters>true</EnableTeamScoreCounters>
@@ -171,16 +171,6 @@
     <ModItem FriendlyName="Text HUD API">
       <Name>758597413.sbm</Name>
       <PublishedFileId>758597413</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Suppress Vanilla Encounters">
-      <Name>888457381.sbm</Name>
-      <PublishedFileId>888457381</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Suppress Vanilla Cargo Ships">
-      <Name>888457124.sbm</Name>
-      <PublishedFileId>888457124</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Sneaky Sounds - Quieter Tools">
@@ -343,16 +333,6 @@
       <PublishedFileId>657749341</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Assertive Loot">
-      <Name>2391318591.sbm</Name>
-      <PublishedFileId>2391318591</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Assertive Combat Systems">
-      <Name>1902970975.sbm</Name>
-      <PublishedFileId>1902970975</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Animated Ore Detectors">
       <Name>2909178497.sbm</Name>
       <PublishedFileId>2909178497</PublishedFileId>
@@ -383,17 +363,18 @@
       <PublishedFileId>510790477</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="ACS Assertive Bunkers">
-      <Name>2473174197.sbm</Name>
-      <PublishedFileId>2473174197</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="(DX11)Armor Thrusters">
       <Name>295393216.sbm</Name>
       <PublishedFileId>295393216</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Animation Engine">
+      <Name>2880317963.sbm</Name>
+      <PublishedFileId>2880317963</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>true</IsDependency>
+    </ModItem>
   </Mods>
   <SessionName>NEW_ERA2</SessionName>
-  <LastSaveTime>2023-12-25T17:16:18.8179009+04:00</LastSaveTime>
+  <LastSaveTime>2023-12-26T00:33:35.506921+04:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
